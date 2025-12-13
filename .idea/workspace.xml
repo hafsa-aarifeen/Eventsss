@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ac467a99-b05a-4e1f-9363-1b01a067d34b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +24,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -107,7 +105,7 @@
       <workItem from="1765449542328" duration="7624000" />
       <workItem from="1765511366164" duration="3536000" />
       <workItem from="1765534083290" duration="1912000" />
-      <workItem from="1765634153089" duration="1716000" />
+      <workItem from="1765634153089" duration="3267000" />
     </task>
     <servers />
   </component>
