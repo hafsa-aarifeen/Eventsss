@@ -1,4 +1,4 @@
-export const dynamic = "force-dynamic";
+export const fetchCache = "force-no-store";
 
 import {NextRequest, NextResponse} from "next/server";
 import { v2 as cloudinary } from "cloudinary";
