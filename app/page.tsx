@@ -1,5 +1,3 @@
-export const dynamic = "force-dynamic";
-
 import React from 'react'
 import ExploreBtn from "@/components/ExploreBtn";
 import EventCard from "@/components/EventCard";
@@ -10,7 +8,7 @@ const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL;
 const Page = async () => {
 
     const response = await fetch("/api/events", {
-        next: { revalidate: 3600 }, // 1 hour
+        cache: "no-store", // replaces force-dynamic
     });
     const { events } = await response.json();
 
